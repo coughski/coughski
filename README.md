@@ -1,10 +1,10 @@
 ![iphone-banner](https://user-images.githubusercontent.com/945761/223170235-c4bac54f-871f-44bb-9fca-e9a86db75527.jpeg)
 
-### Hi there 👋
+### Hi there 👋 I'm Kuba
 
-👨🏻‍💻 I'm an iOS developer looking for a new opportunity.
+👨🏻‍💻 I'm a highly capable and motivated iOS developer, with back-end engineering experience and a degree in Computer Science, passionate about creating exceptional user experiences.
 
-Take a look at my [💼 iOS Developer Portfolio](https://github.com/coughski/iOS-Developer-Portfolio).
+Take a look at my [**💼 iOS Developer Portfolio**](https://github.com/coughski/iOS-Developer-Portfolio).
 
 <!--
 **coughski/coughski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
